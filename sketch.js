@@ -213,6 +213,21 @@ curveVertex(398, 139)
 curveVertex(389, 138)
 curveVertex(386, 138)
 endShape()
+
+stroke(180, 180, 180)//head
+fill(180, 180, 180)
+beginShape()
+curveVertex(321, 269)
+curveVertex(310, 269)
+curveVertex(306, 275)
+curveVertex(316, 283)
+curveVertex(328, 281)
+curveVertex(335, 273)
+curveVertex(325, 269)
+curveVertex(321, 269)
+curveVertex(310, 269)
+curveVertex(306, 275)
+endShape()
 //clock1.2
 
 stroke(200, 200, 200)
@@ -232,26 +247,7 @@ curveVertex(525, 428)
 curveVertex(546, 431)
 curveVertex(552, 448)
 endShape()
-
-stroke(180, 180, 180)//head
-fill(180, 180, 180)
-beginShape()
-curveVertex(321, 269)
-curveVertex(310, 269)
-curveVertex(306, 275)
-curveVertex(316, 283)
-curveVertex(328, 281)
-curveVertex(335, 273)
-curveVertex(325, 269)
-curveVertex(321, 269)
-curveVertex(310, 269)
-curveVertex(306, 275)
-endShape()
 //clock2.1
-
-
-
-
 
 stroke(0,0,0)
 strokeWeight(1)
@@ -397,8 +393,8 @@ curveVertex(572, 413)
 curveVertex(562, 415)
 endShape()
 
-stroke(180, 180, 180)//head
-fill(180, 180, 180)
+stroke(160, 160, 160)//head
+fill(160, 160, 160)
 beginShape()
 curveVertex(591, 485)
 curveVertex(582, 495)
